@@ -1,6 +1,8 @@
 = announcer
 
-Description goes here.
+Announcer allows you to easily share services and applications without the use of a central DNS server or search engine.
+
+Services are announced using the Zeroconf specification. (See http://en.wikipedia.org/wiki/Zeroconf)
 
 == Note on Patches/Pull Requests
  
