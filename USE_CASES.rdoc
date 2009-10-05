@@ -1,0 +1,5 @@
+= Use Cases
+* A developer launches a rails application and it automatically appears in the Safari address bar
+* A developer launches a rails application and it automatically appears in a list of services on a web page
+* A service submits an advertisement to a venue
+* A service withdraws an advertisement from a venue
